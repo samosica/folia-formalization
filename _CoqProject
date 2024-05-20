@@ -1,0 +1,4 @@
+-R . Folia
+-arg -w -arg -notation-overridden
+
+Folia.v Folia_with_commentary.v
